@@ -1,0 +1,75 @@
+.main-container {
+   height: 100vh;
+   background-image:url("https://res.cloudinary.com/dqt58wdlv/image/upload/v1747759518/premium_photo-1661962542692-4fe7a4ad6b54_wwnb8m.jpg") ;
+   background-size: cover;
+}
+
+.main-card-container{
+    text-align: center;
+    background-color: lightblue;
+    border-top-right-radius: 35px;
+    border-top-left-radius: 35px;
+    padding: 1px;
+}
+
+.main-heading{
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-para{
+    color: black;
+    font-size: 20px;
+    font-weight: 50;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.explore-page-container{
+    text-align: center;
+    background-color:whitesmoke;
+}
+
+.explore-card-container{
+    background-color: skyblue;
+    margin: 5px;
+    border-radius: 25px;
+    padding: 5px;
+}
+
+.page-heading{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.page-para{
+    font-size:10px ;
+
+}
+
+.explore-main-heading{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.explore-card-img{
+    height: 100px;
+}
+
+.d-block{
+    height: 300px;
+}
+
+.card-para{
+    font-size:10px ;
+}
+
+.details-page-card{
+    background-color: skyblue;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 20px;
+}
